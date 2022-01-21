@@ -8,8 +8,7 @@ import java.util.*;
 import java.util.jar.*;
 import java.util.logging.Level;
 import java.util.logging.Logger;
-//dfdsfdssdfsdf
-//sdfsdfsdfsdfsdgdfg
+
 public class inic {
 
     private String[] string = new String[5];
